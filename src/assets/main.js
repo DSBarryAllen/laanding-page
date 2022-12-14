@@ -1,3 +1,4 @@
+/*
 const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCMJ2NHhG--EwssJFsj8BGlw&part=snippet%2Cid&order=date&maxResults=50';
 const content = null || document.getElementById('content');
 const options = {
@@ -7,18 +8,18 @@ const options = {
 		'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com'
 	}
 };
-
+*/
 /* fetch('', options)
 	.then(response => response.json())
 	.then(response => console.log(response))
 	.catch(err => console.error(err)); */
-
+/*
 async function fetchData(urlApi){
     const response = await fetch(urlApi, options);
     const data = await response.json();
     return data;
-}
-
+}*/
+/*
 (async () => {
     try {
         const videos = await fetchData(API);
@@ -44,3 +45,5 @@ async function fetchData(urlApi){
         console.log(error);
     }
 })();
+
+*/
